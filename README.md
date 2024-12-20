@@ -16,8 +16,8 @@
 ## How to Play  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/ghostly-treasures.git  
-2, Open the project in your favorite Java IDE.
+   git clone https://github.com/yourusername/ghostly-treasures.git
+2. Open the project in your favorite Java IDE.
 3. Compile and run the Main class to start the game.
 4. Use the arrow keys to move the ghost, collect coins, and avoid fire obstacles.
 5. If you collect 15 coins, you win!
